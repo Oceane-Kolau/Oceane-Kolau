@@ -39,4 +39,4 @@ I like building full-stack web applications.
 
 ![](https://github-readme-stats.vercel.app/api?username=oceane-kolau&show_icons=true&bg_color=45,b100ff,00b6de&title_color=fff&text_color=fff)
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=lexbal'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=oceane-kolau'></p>
