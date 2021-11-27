@@ -14,9 +14,10 @@ I like building full-stack web applications.
 
 ## Skills 🚀
 
+![](https://img.shields.io/badge/Seo-20232A?style=for-the-badge&logo=seo&logoColor=61DAFB)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/PHP7-563D7C?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Symfony-4EA94B?style=for-the-badge&logo=symfony&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -26,7 +27,7 @@ I like building full-stack web applications.
 ![](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Docker-007bff?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Next.js-892ce2?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/GraphQl-892ce2?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 ## Networks ✉️
