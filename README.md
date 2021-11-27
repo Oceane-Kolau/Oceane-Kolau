@@ -41,5 +41,4 @@ I like building full-stack web applications.
 ## Github stats 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=oceane-kolau&show_icons=true&bg_color=45,b101c2,007ade&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oceane-kolau&layout=compact)
 
