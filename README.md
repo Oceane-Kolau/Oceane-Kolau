@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Paris</h3>
 I like building full-stack web applications. 
 
-- 😄 Pronouns: She/Her
+- 👉 Pronouns: She/Her
 
-- 🔭 I’m currently working on **Diving News - blog for scuba diving**
+- 🔭 I’m currently working on **Diving News, a blog for scuba diving, and Photoshare, a photographer's portfolio**
 
-- 🌱 I’m currently learning **React, NextJs**
+- 🌱 Currently learning **React, NextJs**
 
 - 👩‍💻 All of my projects are available at [https://oceane-kolau.tech](https://oceane-kolau.tech)
 
@@ -26,17 +26,18 @@ I like building full-stack web applications.
 ![](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Docker-007bff?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Next.js-007bff?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 ## Networks ✉️
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/ocekl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocekl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oceane kolau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oceane kolau" height="30" width="40" /></a>
 </p>
 
+
 ## Github stats 📊
 
 ![](https://github-readme-stats.vercel.app/api?username=oceane-kolau&show_icons=true&bg_color=45,b100ff,00b6de&title_color=fff&text_color=fff)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=oceane-kolau'></p>
