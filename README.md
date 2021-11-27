@@ -26,7 +26,7 @@ I like building full-stack web applications.
 ![](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Docker-007bff?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Next.js-007bff?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Next.js-892ce2?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ## Networks ✉️
