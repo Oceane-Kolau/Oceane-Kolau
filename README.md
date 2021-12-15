@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Paris</h3>
 I like building full-stack web applications. 
 
-- 👉 Pronouns: She/Her
-
 - 🔭 I’m currently working on **Diving News, a blog for scuba diving, and Photoshare, a photographer's portfolio**
 
 - 🌱 Currently learning **React, NextJs**
@@ -35,7 +33,7 @@ I like building full-stack web applications.
 
 <p align="left">
 <a href="https://codepen.io/ocekl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ocekl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oceane kolau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oceane kolau" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oceane-kolau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oceane kolau" height="30" width="40" /></a>
 </p>
 
 
