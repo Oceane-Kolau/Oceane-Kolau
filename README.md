@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Océane</h1>
-<h3 align="center">A passionate frontend developer from Paris</h3>
+<h3 align="center">A passionate Front-end Developer </h3>
 I like building full-stack web applications. 
 
 - 🔭 I’m currently working on **Diving News, a blog for scuba diving, and Photoshare, a photographer's portfolio**
