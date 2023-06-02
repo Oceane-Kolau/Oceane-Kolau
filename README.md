@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Front-end Developer </h3>
 I like building full-stack web applications. 
 
-- 🔭 I’m currently working on **Diving News, a blog for scuba diving, and Photoshare, a photographer's portfolio**
-
 - 🌱 Currently learning **React, NextJs**
 
 - 👩‍💻 All of my projects are available at [https://oceane-kolau.tech](https://oceane-kolau.tech)
@@ -18,14 +16,7 @@ I like building full-stack web applications.
 ![](https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Symfony-4EA94B?style=for-the-badge&logo=symfony&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Docker-007bff?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/GraphQl-892ce2?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 ## Networks ✉️
@@ -36,8 +27,4 @@ I like building full-stack web applications.
 <a href="https://linkedin.com/in/oceane-kolau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oceane kolau" height="30" width="40" /></a>
 </p>
 
-
-## Github stats 📊
-
-![](https://github-readme-stats.vercel.app/api?username=oceane-kolau&show_icons=true&theme=radical)
 
